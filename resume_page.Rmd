@@ -51,12 +51,9 @@ Main
 Lijia Yu {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+### Actualmente buscando trabajo como analista de datos
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+Ingeniero analista de datos para la Universidad de La Frontera, con experiencia en educación y evaluación de impacto. He aplicado la analítica de aprendizaje para obtener insights que optimicen los procesos educativos. En mi tesis de Magíster, desarrollé un marco metodológico para evaluar la Transformación Digital en Educación Superior, utilizando indicadores basados en huellas digitales de sistemas de información. Manejo herramientas como Rstudio y Looker Studio para análisis y visualización de datos.
 
 
 Education {data-icon=graduation-cap data-concise=true}
