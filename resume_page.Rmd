@@ -9,66 +9,122 @@ output:
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
 
-Aside
-================================================================================
+# Aside
 
+![Matías Yáñez Pohl](resume_page_files/images/cv_resize.png){width="100%"}
 
-![Matías Yáñez Pohl](resume_page_files/images/cv_resize.png){width=100%}
+## Información de contacto {#contact}
 
-
-Contact Info {#contact}
---------------------------------------------------------------------------------
-
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
-- For more information, please contact me via email.
-
-
-Skills {#skills}
---------------------------------------------------------------------------------
-
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-- Full experience with next generation sequencing data analysis.
-
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+-   <i class="fa fa-envelope"></i> [matias.yanez\@ufrontera.cl](mailto:matias.yanez@ufrontera.cl){.email}
+-   <i class="fa brands fa-linkedin"></i> [linkedin.com/in/matiasyp/](www.linkedin.com/in/matiasyp/)
+-   <i class="fa fa-phone"></i> +56 966020096
 
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+## Disclaimer {#disclaimer}
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+Este resumen fue desarrollado con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
+Última actualización `r Sys.Date()`.
 
+# Main
 
-
-Main
-================================================================================
-
-Mg. Matías Yáñez Pohl {#title}
---------------------------------------------------------------------------------
+## Mg. Matías Yáñez Pohl {#title}
 
 ### Actualmente buscando trabajo como analista de datos
 
+::: {style="text-align: justify;"}
 Ingeniero analista de datos para la Universidad de La Frontera, con experiencia en educación y evaluación de impacto. He aplicado la analítica de aprendizaje para obtener insights que optimicen los procesos educativos. En mi tesis de Magíster, desarrollé un marco metodológico para evaluar la Transformación Digital en Educación Superior, utilizando indicadores basados en huellas digitales de sistemas de información. Manejo herramientas como Rstudio y Looker Studio para análisis y visualización de datos.
+:::
+## Experiencia profesional {data-icon="suitcase"}
+
+### Ingeniero analista de datos
+
+Universidad de La Frontera
+
+Temuco, Chile
+
+2021 - 2024
+
+-   Diseñé e implementé instrumentos de evaluación para medir competencias digitales docentes.
+-   Colaboré en la evaluación del impacto de Proyectos de Innovación Docente e iniciativas alineadas con el Modelo Educativo Institucional que dependen de la Coordinación de Desarrollo de la Docencia.
+-   Realicé procesos completos de extracción, transformación y carga (ETL) de datos para análisis estadísticos avanzados.
+-   Desarrollé análisis estadísticos en RStudio para los informes de evaluación de impacto.
+-   Creé *dashboards* interactivos en Looker Studio, proporcionando visualizaciones personalizadas para diversas unidades, optimizando la toma de decisiones estratégicas.
+
+### Líder técnico
+
+Instituto de Informática Educativa
+
+Temuco, Chile
+
+2020 - 2021
+
+-   Lideré un equipo técnico multidisciplinario para la creación del "Maletín Didáctico", que incluye guías, actividades interactivas y presentaciones innovadoras.
+-   Coordiné con la Mesa Técnica y Pedagógica para garantizar la alineación del proyecto con los objetivos educativos nacionales.
+-   Investigué competencias clave, certificaciones y tendencias del sector productivo para modernizar la especialidad de Programación en los liceos Técnico-Profesionales (TP) de Chile.
+-   Diseñé y desarrollé un plan de estudios actualizado, alineado con estándares internacionales y las necesidades del mercado laboral.
+-   Diseñé e implementé un [plan de formación docente](https://www.curriculumnacional.cl/portal/Educacion-Tecnico-Profesional/Tecnologia-y-Comunicaciones/Especialidad-Programacion/#tabs_2) para asegurar la correcta aplicación del plan de estudios modernizado.
+-   Transferí el proyecto a más de 100 docentes, promoviendo prácticas innovadoras en la enseñanza de programación.
 
 
-Formación {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+### Game Designer
 
-### Universidad Técnica Federico Santa María
+Paperseed
 
-Ingeniero en Ejecución Informática
+Viña del Mar, Chile
 
-Valparaiso, Chile
+2017 - 2019
 
-2017
+-   Lideré equipos multidisciplinarios en la creación y ejecución de videojuegos hipercasuales para Android, optimizando la experiencia del usuario mediante análisis de datos.
+-   Diseñé y desarrollé videojuegos y experiencias inmersivas en VR/AR utilizando Unity, aplicando metodologías ágiles como Scrum y Kanban.
+-   Publicación y comercialización de videojuegos en tiendas de aplicaciones, logrando posicionamiento en nichos específicos del mercado móvil.
 
-Titulado con distinción máxima con la memoria "Diseño y desarrollo de videojuego hiper-casual en Unity para la
-plataforma Android".
+
+
+
+## Experiencia en Docencia {data-icon="chalkboard-teacher"}
+
+### Pruebas de software.
+
+N/A 
+
+Universidad de La Frontera
+
+2023
+
+Docente asistente de la asignatura ICC-735 enfocada en conceptos, métodos y técnicas utilizadas para garantizar la calidad del software.
+
+### De la Idea al Juego: Taller de Creación de Videojuegos.
+
+N/A
+
+Universidad de La Frontera
+
+2024
+
+Docente responsable del electivo ICC-165, orientado al diseño, producción y pre-producción de videojuegos.
+
+### Acceso a datos
+
+N/A 
+
+Universidad de La Frontera
+
+2024
+
+Docente responsable de la asignatura ICC-704, centrada en scripting de SQL, integrando teoría y práctica en el manejo de sistemas de gestión de bases de datos.
+
+
+## Formación {data-icon="graduation-cap" data-concise="true"}
 
 ### Universidad de La Frontera
 
@@ -80,116 +136,108 @@ Temuco, Chile
 
 Titulado con distinción máxima con la tesis "Indicadores observables para la evaluación de la Transformación Digital en Educación Superior".
 
+### Universidad Técnica Federico Santa María
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
+Ingeniero en Ejecución Informática
 
-### Graduate Research Assistant
+Valparaiso, Chile
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+2017
 
-Beijing, China
+Titulado con distinción máxima con la memoria "Diseño y desarrollo de videojuego hiper-casual en Unity para la plataforma Android".
 
-2011 - 2014
+## Proyectos {data-icon="chart-gantt"}
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Data Scientist, intern
-
-SupStat Inc.
-
-Beijing, China
-
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
+### EXT23-0012 Inteligencia Artifcial en el aula: De la defnición a la acción.
 
 N/A
 
-2016 
+N/A
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+2023
+
+Proyecto de Vinculación con el Medio
+
+### DID22-0021 Detección y evaluación de perfles competenciales en la formación psicológica mediante la gamificación.
+
+N/A
+
+N/A
+
+2022
+
+Proyecto de Innovación Docente
+
+### EXT21-0038 Hacia un nuevo enfoque en la Enseñanza de las Ciencias en contexto remoto. Integración entre las metodologías lúdica e indagatoria.
+
+N/A
+
+N/A
+
+2023
+
+Proyecto de Vinculación con el Medio
+
+## Publicaciones y congresos {data-icon="file"}
+
+### Observable indicators for assessing digital transformation in higher education.
+
+Developments and Advances in Defense and Security, MICRADS 2024. Springer. To appear.
+
+N/A
+
+2024
+
+Presentación en *International Conference on Information Technology & Systems*.
+
+**Yañez-Pohl, M.** and Cares, C.
+
+### Ejes y oportunidades en la medición de la transformación digital en educación superior.
+
+Jornadas Chilenas de la Computación.
+
+N/A
+
+2023
+
+Presentación en Encuentro de Tesistas de la Jornadas Chilenas de la Computación.
+
+**Yañez-Pohl, M.** and Cares, C.
+
+### Videojuegos al aula: Experiencia de integración, entre gamifcación y metodología indagatoria.
+
+ISBN 978-956-236-416-4
+
+N/A
+
+2022
+
+Osses Bustingorry, S., Iturriaga Niemann, A., Alvarez Gómez, P., **Yañez Pohl, M.**, Abarzúa Charnay, I., & Berckhoff Vásquez, C.
+
+## Cursos {data-icon="leanpub"}
+
+### Diplomado de Investigación Formativa
+
+Universidad de La Frontera
+
+N/A
+
+2023
+
+### Data Analyst with R
+
+Datacamp
+
+N/A
+
+2021
+
+### Full Stack Java Trainee
+
+Talento Digital para Chile
+
+N/A
+
+2021
+
+
