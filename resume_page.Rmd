@@ -7,9 +7,13 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 ```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  background: white;
+}
+
 .pagedjs_page:not(:first-of-type) {
   --sidebar-width: 0rem;
   --sidebar-background-color: #ffffff;
@@ -17,6 +21,7 @@ output:
   --decorator-horizontal-margin: 0.2in;
 }
 ```
+
 
 # Aside
 
@@ -39,7 +44,7 @@ Este resumen fue desarrollado con el paquete de R [**pagedown**](https://github.
 
 ## Mg. Matías Yáñez Pohl {#title}
 
-### Actualmente buscando trabajo como analista de datos
+### Actualmente buscando trabajo como Analista de Datos
 
 ::: {style="text-align: justify;"}
 Ingeniero analista de datos para la Universidad de La Frontera, con experiencia en educación y evaluación de impacto. He aplicado la analítica de aprendizaje para obtener insights que optimicen los procesos educativos. En mi tesis de Magíster, desarrollé un marco metodológico para evaluar la Transformación Digital en Educación Superior, utilizando indicadores basados en huellas digitales de sistemas de información. Manejo herramientas como Rstudio y Looker Studio para análisis y visualización de datos.
