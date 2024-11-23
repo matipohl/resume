@@ -30,7 +30,7 @@ knit: pagedown::chrome_print
 ## Información de contacto {#contact}
 
 -   <i class="fa fa-envelope"></i> [matias.yanez\@ufrontera.cl](mailto:matias.yanez@ufrontera.cl){.email}
--   <i class="fa brands fa-linkedin"></i> [linkedin.com/in/matiasyp/](www.linkedin.com/in/matiasyp/)
+-   <i class="fa brands fa-linkedin"></i> [linkedin.com/in/matiasyp/](https://linkedin.com/in/matiasyp/){target="_blank"}
 -   <i class="fa fa-phone"></i> +56 966020096
 
 
