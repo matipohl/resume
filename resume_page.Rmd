@@ -36,7 +36,7 @@ knit: pagedown::chrome_print
 
 ## Disclaimer {#disclaimer}
 
-Este resumen fue desarrollado con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown).
+Este resumen fue desarrollado con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown){target="_blank"}.
 
 Última actualización `r Sys.Date()`.
 
@@ -77,7 +77,7 @@ Temuco, Chile
 -   Coordiné con la Mesa Técnica y Pedagógica para garantizar la alineación del proyecto con los objetivos educativos nacionales.
 -   Investigué competencias clave, certificaciones y tendencias del sector productivo para modernizar la especialidad de Programación en los liceos Técnico-Profesionales (TP) de Chile.
 -   Diseñé y desarrollé un plan de estudios actualizado, alineado con estándares internacionales y las necesidades del mercado laboral.
--   Diseñé e implementé un [plan de formación docente](https://www.curriculumnacional.cl/portal/Educacion-Tecnico-Profesional/Tecnologia-y-Comunicaciones/Especialidad-Programacion/#tabs_2) para asegurar la correcta aplicación del plan de estudios modernizado.
+-   Diseñé e implementé un [plan de formación docente](https://www.curriculumnacional.cl/portal/Educacion-Tecnico-Profesional/Tecnologia-y-Comunicaciones/Especialidad-Programacion/#tabs_2){target="_blank"} para asegurar la correcta aplicación del plan de estudios modernizado.
 -   Transferí el proyecto a más de 100 docentes, promoviendo prácticas innovadoras en la enseñanza de programación.
 
 
