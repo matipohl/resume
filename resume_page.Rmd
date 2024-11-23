@@ -36,9 +36,7 @@ knit: pagedown::chrome_print
 
 ## Disclaimer {#disclaimer}
 
-Este resumen fue desarrollado con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown){target="_blank"}.
-
-Última actualización `r Sys.Date()`.
+Última actualización 24/11/2023s.
 
 # Main
 
