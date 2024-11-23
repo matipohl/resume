@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Matías Yáñez Pohl](resume_page_files/images/cv_resize.png){width=100%}
 
 
 Contact Info {#contact}
@@ -48,7 +48,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Mg. Matías Yáñez Pohl {#title}
 --------------------------------------------------------------------------------
 
 ### Actualmente buscando trabajo como analista de datos
@@ -56,28 +56,29 @@ Lijia Yu {#title}
 Ingeniero analista de datos para la Universidad de La Frontera, con experiencia en educación y evaluación de impacto. He aplicado la analítica de aprendizaje para obtener insights que optimicen los procesos educativos. En mi tesis de Magíster, desarrollé un marco metodológico para evaluar la Transformación Digital en Educación Superior, utilizando indicadores basados en huellas digitales de sistemas de información. Manejo herramientas como Rstudio y Looker Studio para análisis y visualización de datos.
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Formación {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Universidad Técnica Federico Santa María
 
-B.S. in Information and Computing Sciences
+Ingeniero en Ejecución Informática
 
-Beijing, China
+Valparaiso, Chile
 
-2010
+2017
 
-Thesis: Dyadic wavelet and its application in edge detection
+Titulado con distinción máxima con la memoria "Diseño y desarrollo de videojuego hiper-casual en Unity para la
+plataforma Android".
 
-### University of Chinese Academy of Sciences
+### Universidad de La Frontera
 
-M.S. in Bioinformatics
+Magíster en Ingeniería Informática
 
-Beijing, China
+Temuco, Chile
 
-2014
+2024
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+Titulado con distinción máxima con la tesis "Indicadores observables para la evaluación de la Transformación Digital en Educación Superior".
 
 
 Research Experience {data-icon=laptop}
