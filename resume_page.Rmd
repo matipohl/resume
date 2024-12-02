@@ -35,7 +35,7 @@ knit: pagedown::chrome_print
 
 ## Disclaimer {#disclaimer}
 
-Última actualización 24/11/2023s.
+Última actualización 01/12/2024.
 
 # Main
 
