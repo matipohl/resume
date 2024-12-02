@@ -31,6 +31,7 @@ knit: pagedown::chrome_print
 
 -   <i class="fa fa-envelope"></i> [matias.yanez\@ufrontera.cl](mailto:matias.yanez@ufrontera.cl){.email}
 -   <i class="fa fa-phone"></i> +56 966020096
+-   <i class="fa-brands fa-linkedin-in"></i> [Linkedin](https://www.linkedin.com/in/matiasyp/)
 
 
 ## Disclaimer {#disclaimer}
@@ -164,7 +165,7 @@ Proyecto de Vinculación con el Medio
 
 N/A
 
-N/A
+Universidad de La Frontera
 
 2022
 
@@ -206,7 +207,7 @@ Presentación en Encuentro de Tesistas de la Jornadas Chilenas de la Computació
 
 **Yañez-Pohl, M.** and Cares, C.
 
-### Videojuegos al aula: Experiencia de integración, entre gamifcación y metodología indagatoria.
+### [Videojuegos al aula: Experiencia de integración, entre gamificación y metodología indagatoria.](https://drive.google.com/file/d/1fYBGsz-1h-RvatvVC0kJ-I9i_ryriJND/view?usp=drive_link)
 
 ISBN 978-956-236-416-4
 
