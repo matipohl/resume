@@ -151,7 +151,7 @@ Titulado con distinción máxima con la memoria "Diseño y desarrollo de videoju
 
 ## Proyectos {data-icon="chart-gantt"}
 
-### EXT23-0012 Inteligencia Artifcial en el aula: De la defnición a la acción.
+### EXT23-0012 Inteligencia Artifcial en el aula: De la definición a la acción.
 
 N/A
 
