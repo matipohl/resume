@@ -155,7 +155,17 @@ Titulado con distinción máxima con la memoria "Diseño y desarrollo de videoju
 
 N/A
 
+Universidad de La Frontera
+
+2023
+
+Proyecto de Vinculación con el Medio
+
+### EXT21-0038 Hacia un nuevo enfoque en la Enseñanza de las Ciencias en contexto remoto. Integración entre las metodologías lúdica e indagatoria.
+
 N/A
+
+Universidad de La Frontera
 
 2023
 
@@ -171,15 +181,25 @@ Universidad de La Frontera
 
 Proyecto de Innovación Docente
 
-### EXT21-0038 Hacia un nuevo enfoque en la Enseñanza de las Ciencias en contexto remoto. Integración entre las metodologías lúdica e indagatoria.
+### Desarrollo de un Juego de Mesa Educativo para la Promoción de Competencias en Educación Financiera
 
 N/A
 
+Banco Central
+
+2022
+
+Independiente
+
+### Desarrollo de un Juego de Mesa Educativo para la Promoción de Competencias Ciudadanas
+
 N/A
 
-2023
+Sercotec
 
-Proyecto de Vinculación con el Medio
+2020
+
+Independiente
 
 ## Publicaciones y congresos {data-icon="file"}
 
